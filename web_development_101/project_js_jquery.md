@@ -287,4 +287,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [John Smalley's solution](https://github.com/johnsmalley/sketchpad) | [View in browser](https://htmlpreview.github.io/?https://github.com/johnsmalley/sketchpad/blob/master/index.html)
 * [Raphael N's solution](https://github.com/raph-nov/etch-a-sketch) | [View in browser] (https://htmlpreview.github.io/?https://github.com/raph-nov/etch-a-sketch/blob/master/index.html)
 * [DV's solution](https://github.com/dvislearning/etch-a-sketch) | [View in browser] (https://rawgit.com/dvislearning/etch-a-sketch/master/index.html)
+* [Dominik Chomicki's solution](https://github.com/hamstersky/etch-a-sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/hamstersky/etch-a-sketch/blob/master/index.html)
 * Add your solution above this line!
